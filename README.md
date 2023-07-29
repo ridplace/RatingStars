@@ -15,9 +15,13 @@ a web page will be created on ridplace and will allow you and your users to rate
 3- Integrate this little piece of code that will allow you to display a rating on your site, and when read by Google, will also display stars in Google results, making Google users want to visit your site.
 
 <div id="ridplace_rating_div"></div>
+
 <script>
+    
 var ridplace_rating_url="%YOUR WEBSITE URL%";
+    
 </script>
+
 <script src="https://ridplace.com/ridplace/widget/rating_api.js"></script>
     
 For example, for the domain name bikub.com, the code will be
