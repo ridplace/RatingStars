@@ -32,7 +32,7 @@ var ridplace_rating_url="https://bikub.com";
 </script>
 <script src="https://ridplace.com/ridplace/widget/rating_api.js"></script>
     
-And the result is
+And the result on https://bikub.com (example) is
 
 ![image](https://github.com/ridplace/RatingStars/assets/140872899/a7298c20-dd65-45a6-9cbb-05800772a09e)
 
