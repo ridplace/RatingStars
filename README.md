@@ -31,6 +31,8 @@ For example, for the domain name bikub.com, the code will be
 var ridplace_rating_url="https://bikub.com";
 </script>
 <script src="https://ridplace.com/ridplace/widget/rating_api.js"></script>
+
+
     
 And the result on https://bikub.com (example) is
 
