@@ -33,6 +33,7 @@ var ridplace_rating_url="https://bikub.com";
 <script src="https://ridplace.com/ridplace/widget/rating_api.js"></script>
 
 
+
     
 And the result on https://bikub.com (example) is
 
