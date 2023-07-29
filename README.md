@@ -7,8 +7,11 @@ How to get stars on your website?
 it’s very easy, just follow these steps
 
 1- First, create an account on ridplace. It’s free   https://ridplace.com/login-2/
+
 2- Submit your website https://ridplace.com/addbookmark/
+
 a web page will be created on ridplace and will allow you and your users to rate your site
+
 3- Integrate this little piece of code that will allow you to display a rating on your site, and when read by Google, will also display stars in Google results, making Google users want to visit your site.
 
 <div id="ridplace_rating_div"></div>
