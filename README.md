@@ -1,6 +1,6 @@
 # RatingStars
 Add star rating on websites
-with the power of the <a href="ridplace.com">ridplace social bookmarking</a>
+with the power of the <a href="https://ridplace.com">ridplace social bookmarking</a>
 
 Add rating stars on your website and in google search results
 How to get stars on your website?
